@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TextRecognition</string>
+    <string name="scan">Scan</string>
+    <string name="scan2">SCAN TEXT</string>
+    <string name="translate_text">Translate Text</string>
+    <string name="translate_text2">TRANSLATE TEXT</string>
+    <string name="text_recognition_translate"><![CDATA[Text Recognition & Translate]]></string>
+
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="copy_text">Copy Text</string>
+    <string name="please_paste_or_type_your_text">Please paste or type your text</string>
+
+</resources>
