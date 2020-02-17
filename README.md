@@ -1,6 +1,6 @@
-# Text Recognition & Translation Android Applciation
-A simple text recognition Android application 
 
-## build with 
+# Text Recognition & Translation App
+
+## Build With 
  - Google ML Kit
  - Crashlytics
